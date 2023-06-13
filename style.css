@@ -1,0 +1,21 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+.heading{
+width: 100%;
+text-align: left;
+border-radius: 20px;
+}
+.heading h3{
+    display: inline-block;
+    margin-left: 120px;
+}
+.heading button{
+    float: right;
+    margin-right: 120px;
+}
+#button1, #status{
+    font-size: 18px;
+}
